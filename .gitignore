@@ -1,0 +1,90 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+migrate_working_dir/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# The .vscode folder contains launch configuration and tasks you configure in
+# VS Code which you may wish to be included in version control, so this line
+# is commented out by default.
+#.vscode/
+
+# Flutter/Dart/Pub related
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+/build/
+
+# Symbolication related
+app.*.symbols
+
+# Obfuscation related
+app.*.map.json
+
+# Android Studio will place build artifacts here
+/android/app/debug
+/android/app/profile
+/android/app/release
+
+# Local credentials and signing files
+.env
+.env.*
+!.env.example
+**/key.properties
+**/*.jks
+**/*.keystore
+**/*.p12
+**/*.pfx
+**/*.pem
+**/*.key
+**/local.properties
+*.apk
+*.aab
+
+# Native build caches and generated output
+**/build/
+**/.cxx/
+**/.externalNativeBuild/
+**/.gradle/
+**/Pods/
+**/.symlinks/
+**/ephemeral/
+**/DerivedData/
+
+# Local service credentials and machine configuration
+**/google-services.json
+**/GoogleService-Info.plist
+**/*service-account*.json
+**/*service_account*.json
+.aws/
+.codex/
+.agents/
+
+# Teaser source captures, tool cache and rendered media
+/teaser/captures/
+/teaser/output/
+/teaser/.deps/
+/teaser/assets/*.wav
+
+# Keep the final portfolio deliverables; exclude render intermediates.
+!/teaser/output/
+/teaser/output/*
+!/teaser/output/talentlink-teaser-40s.mp4
+!/teaser/output/talentlink-teaser-poster.png
+!/teaser/output/verification.json

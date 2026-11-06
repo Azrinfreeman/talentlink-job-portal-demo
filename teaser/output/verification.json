@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "ffmpeg_version": "7.1-essentials_build-www.gyan.dev built with gcc 14.2.0 (Rev1, Built by MSYS2 project)",
+    "codec": "h264",
+    "pix_fmt": "yuv420p(progressive)",
+    "audio_codec": "aac",
+    "fps": 30.0,
+    "source_size": [
+      1920,
+      1080
+    ],
+    "size": [
+      1920,
+      1080
+    ],
+    "rotate": 0,
+    "duration": 40.0
+  },
+  "decoded_frames": 1200,
+  "minimum_sampled_frame_brightness": 205.2022633744856,
+  "loudness": {
+    "input_i": "-15.81",
+    "input_tp": "-1.67",
+    "input_lra": "1.40",
+    "input_thresh": "-25.90",
+    "output_i": "-16.02",
+    "output_tp": "-2.12",
+    "output_lra": "1.30",
+    "output_thresh": "-26.08",
+    "normalization_type": "dynamic",
+    "target_offset": "0.02"
+  },
+  "mp4_atoms": [
+    {
+      "type": "ftyp",
+      "offset": 0
+    },
+    {
+      "type": "moov",
+      "offset": 32
+    },
+    {
+      "type": "free",
+      "offset": 45379
+    },
+    {
+      "type": "mdat",
+      "offset": 45387
+    }
+  ],
+  "checks": {
+    "duration_40_seconds": true,
+    "frame_count_1200": true,
+    "resolution_1920_1080": true,
+    "frame_rate_30": true,
+    "codec_h264": true,
+    "no_unintended_black_frames": true,
+    "audio_near_minus16_lufs": true,
+    "audio_true_peak_below_minus1_dbtp": true,
+    "fast_start": true,
+    "audio_aac_stereo_48khz": true
+  },
+  "file_bytes": 4198056,
+  "notes": [
+    "Actual Flutter-rendered app frames with editorial motion and tap indicators.",
+    "Fictional offline data; simulated interview is labelled.",
+    "Original instrumental; no voiceover.",
+    "Source UI animation sampling approximately 12 fps; export 30 fps."
+  ]
+}

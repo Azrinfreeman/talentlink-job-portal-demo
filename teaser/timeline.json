@@ -1,0 +1,18 @@
+{
+  "title": "TalentLink — Your next opportunity",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "duration": 40,
+  "shots": [
+    {"id":"intro", "start":0, "end":4, "kicker":"A NEW CHAPTER", "title":["Your next", "opportunity", "starts here."], "body":["Discover work. Build skills.", "Take the next step with TalentLink."], "tags":["JOBS", "SKILLS", "GROWTH"]},
+    {"id":"register", "start":4, "end":9, "kicker":"01 / START WITH YOU", "title":["Create your", "profile."], "body":["A simple start to your career journey.", "Register your local demo account."], "tags":["REGISTER", "PERSONALISE"]},
+    {"id":"login", "start":9, "end":12, "kicker":"02 / YOU'RE IN", "title":["Make your", "next move."], "body":["Sign in and explore opportunities", "from your own dashboard."], "tags":["SIGN IN", "EXPLORE"]},
+    {"id":"discover", "start":12, "end":18, "kicker":"03 / FIND YOUR FIT", "title":["Discover roles", "that fit you."], "body":["Browse opportunities. Save a favourite.", "See the details before you apply."], "tags":["DISCOVER", "SAVE", "COMPARE"]},
+    {"id":"apply", "start":18, "end":23, "kicker":"04 / TAKE THE NEXT STEP", "title":["Apply.", "Keep track."], "body":["Submit a demo application", "and follow it in your Applied list."], "tags":["APPLY", "TRACK"]},
+    {"id":"progress", "start":23, "end":27, "kicker":"05 / SEE WHAT'S NEXT", "title":["Follow your", "progress."], "body":["Preview an interview invitation", "and see it in your calendar."], "tags":["SIMULATED INTERVIEW"]},
+    {"id":"learning", "start":27, "end":32, "kicker":"06 / KEEP GROWING", "title":["Build skills.", "Stay organised."], "body":["Enrol in a session.", "Your calendar keeps it in view."], "tags":["LEARN", "PLAN", "GROW"]},
+    {"id":"together", "start":32, "end":36, "kicker":"07 / BRING IT TOGETHER", "title":["Your career,", "in one place."], "body":["Explore companies. Update your profile.", "Keep your résumé ready."], "tags":["COMPANIES", "PROFILE", "RÉSUMÉ"]},
+    {"id":"outro", "start":36, "end":40, "kicker":"TALENTLINK / TALENT MANAGEMENT", "title":["Explore your", "next opportunity."], "body":["One journey. More possibilities."], "tags":["PROTOTYPE PREVIEW"]}
+  ]
+}

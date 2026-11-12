@@ -14,6 +14,7 @@ removed or replaced; this repository contains none of the client's material.
 
 **[Watch the 40-second trailer](teaser/output/talentlink-teaser-40s.mp4)**
 | [View poster](teaser/output/talentlink-teaser-poster.png)
+| [Original Project] https://youtu.be/ozGfCjiFz-E
 
 A 1080p walkthrough of registration, login, job discovery, applications,
 training enrolment and career profiles, captured from the real app.

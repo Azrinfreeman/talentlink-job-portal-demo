@@ -40,3 +40,14 @@ flutter test
 ```
 
 Use invented personal details and passwords.
+
+## Build for the web
+
+```sh
+flutter build web --base-href /talentlink-job-portal-demo/
+```
+
+The build is written to `build/web/`. For the first GitHub Pages deployment,
+set the publishing source to **GitHub Actions** in the repository's Pages
+settings. The **Flutter web** workflow builds pull requests and deploys from
+`main`.
